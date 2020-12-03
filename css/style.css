@@ -1,6 +1,27 @@
 h1 {
-	font-size: 140px;
-	font-family: castellar;
-	text-align: center;
-	color: #768185;
+	font-size: 6vw;
+	font-family: neo latina;
+	text-align: right;
+	padding-right: 200px;
+	color: #dbdbdb;
+}
+h2 {
+	font-size: 4vw;
+	font-family: neo latina;
+	text-align: right;
+	padding-right: 200px;
+	color: #dbdbdb;
+}
+
+div#title {
+	background: #171717; 
+	height: 200px;
+	line-height: 2px;
+	border-top: 5px solid #dbdbdb;
+	border-bottom: 5px solid #dbdbdb;
+}
+
+body {
+	background-image: url("https://newcastlebeach.org/images/free-high-resolution-images.jpg");
+	background-size: cover;
 }
