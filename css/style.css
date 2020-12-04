@@ -1,3 +1,30 @@
+div#navbar {
+	background-color: #171717;
+	overflow: hidden;
+	padding-left: 5rem;
+	padding-top: .5rem;
+	width: 50rem;
+}
+
+div#navbar a{
+	float: left;
+	color: #dbdbdb;
+	text-align: center;
+	padding: 0.5rem 2rem;
+	text-decoration: none;
+	font-size: 2.2rem;
+	border-left: .1rem solid #dbdbdb;
+}	
+
+div#navbar a:hover{
+	color: #8a8a8a; 
+}
+
+div#navbar a.active{
+	background-color: #dbdbdb;
+	color: #171717; 
+}
+
 h1 {
 	font-size: 6vw;
 	font-family: neo latina;
@@ -15,13 +42,13 @@ h2 {
 
 div#title {
 	background: #171717; 
-	height: 200px;
-	line-height: 2px;
-	border-top: 5px solid #dbdbdb;
-	border-bottom: 5px solid #dbdbdb;
+	height: 13rem;
+	line-height: .3rem;
+	border-top: .4rem solid #dbdbdb;
+	border-bottom: .4rem solid #dbdbdb;
 }
 
 body {
-	background-image: url("https://newcastlebeach.org/images/free-high-resolution-images.jpg");
+	background-image: url(../images/photo-1477959858617-67f85cf4f1df.jpg);
 	background-size: cover;
 }
