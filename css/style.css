@@ -3,7 +3,6 @@ div#navbar {
 	overflow: hidden;
 	padding-left: 5rem;
 	padding-top: .5rem;
-	width: 50rem;
 }
 
 div#navbar a{
@@ -21,22 +20,23 @@ div#navbar a:hover{
 }
 
 div#navbar a.active{
-	background-color: #dbdbdb;
+	background-color: #66bd80;
 	color: #171717; 
 }
+
 
 h1 {
 	font-size: 6vw;
 	font-family: neo latina;
 	text-align: right;
-	padding-right: 200px;
+	padding-right: 12.5rem;
 	color: #dbdbdb;
 }
 h2 {
 	font-size: 4vw;
 	font-family: neo latina;
 	text-align: right;
-	padding-right: 200px;
+	padding-right: 12.5rem;
 	color: #dbdbdb;
 }
 
@@ -48,7 +48,7 @@ div#title {
 	border-bottom: .4rem solid #dbdbdb;
 }
 
-body {
+body#home {
 	background-image: url(../images/photo-1477959858617-67f85cf4f1df.jpg);
 	background-size: cover;
 }
