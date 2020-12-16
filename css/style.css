@@ -235,3 +235,23 @@ p#abo {
 	padding-left: 14vw;
 	padding-right: 14vw;
 }
+
+img#phone {
+	padding-top: 2vw;
+	padding-left: 38%;
+	height: 15vw;
+}
+
+div#contactinfo {
+	color: white;
+	font-size: 2vw;
+	text-align: center;
+	line-height: 3vw;
+}
+
+div#contactinfo2 {
+	color: white;
+	font-size: 2vw;
+	text-align: center;
+	line-height: 1vw;
+}
