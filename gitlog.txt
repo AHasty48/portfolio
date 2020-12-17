@@ -1,0 +1,53 @@
+commit f3946340fc1bb782e450959591b6c1a8c273dd3b
+Author: Your Name <you@example.com>
+Date:   Wed Dec 16 23:21:20 2020 +0000
+
+    complete website
+
+commit c684255e993c325522275cf3c2bad216f2c2de81
+Author: Your Name <you@example.com>
+Date:   Wed Dec 16 22:46:30 2020 +0000
+
+    prework and about
+
+commit 595e2ad34a9b2217e644bfac45c4512373a0590c
+Author: Your Name <you@example.com>
+Date:   Wed Dec 16 18:56:25 2020 +0000
+
+    prework slideshow
+
+commit 95174c3e029410ef706efc0e546dccf394f1b5e0
+Author: Your Name <you@example.com>
+Date:   Tue Dec 8 17:00:08 2020 +0000
+
+    added_navbar_to_other_pages
+
+commit b2389423a34dad800d26dc6d2d35f6ae4d16f727
+Author: Your Name <you@example.com>
+Date:   Fri Dec 4 13:09:46 2020 +0000
+
+    navbar
+
+commit 65454f52f7981bf6b292cc56690651905ab8ecb2
+Author: Your Name <you@example.com>
+Date:   Thu Dec 3 13:54:20 2020 +0000
+
+    background
+
+commit 906ea4e22f00e15c3ed1b1311ccd71eda65ff468
+Author: Your Name <you@example.com>
+Date:   Mon Nov 30 20:55:30 2020 +0000
+
+    header
+
+commit 7443762a2768a6c6e9046f379c52dba05653f414
+Author: Your Name <you@example.com>
+Date:   Thu Oct 15 12:45:19 2020 +0100
+
+    initial import
+
+commit 2fe16892b5af7b66f0cc8f01be5d9195bbef303b
+Author: AHasty48 <72551249+AHasty48@users.noreply.github.com>
+Date:   Thu Oct 15 11:06:54 2020 +0100
+
+    Initial commit
